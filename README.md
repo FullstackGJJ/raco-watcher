@@ -7,6 +7,6 @@ To install this package onto your system:
 `$ raco pkg install`
 
 To auto re-run tests do
-`$ raco watcher -c "raco test <file/directory>"
+`$ raco watcher -c "raco test <file/directory>"`
 
 As simple as that
